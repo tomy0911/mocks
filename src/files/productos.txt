@@ -1,0 +1,23 @@
+[
+    {
+        "title": "SamsungS22+",
+        "price": "220000",
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_956259-MLA52140951886_102022-O.jpg",
+        "id": 11,
+        "timestamp": 1662044390141
+    },
+    {
+        "title": "Iphone 14",
+        "price": "413500",
+        "thumbnail": "https://www.ventasrosario.com.ar/wp-content/uploads/2022/09/61bK6PMOC3L._AC_SL1500_.jpg",
+         "id": 21,
+         "timestamp": 16620443901
+    },
+    {
+        "title": "Motorola Edge 30 Pro",
+        "price": "220000",
+        "thumbnail": "https://armoto.vtexassets.com/arquivos/ids/162899-800-auto?v=638101344667300000&width=800&height=auto&aspect=true",
+        "id": 2,
+        "timestamp": 1662679144065
+    }
+]
